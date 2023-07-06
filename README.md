@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mehmet. I am a Software Engineering student in Bahçeşehir University.
+### Hi there 👋 I'm Mehmet. I am a Software Engineer. I studied at Bahçeşehir University.
 
 <!--
 **MehmetIZMIRLIOGLU/mehmetizmirlioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
